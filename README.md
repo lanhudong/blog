@@ -1,6 +1,6 @@
 > 分享一波收藏夹资源，同时可以通过 https://www.52ddh.com 访问汇总后的导航网站！
 
-
+[toc]
 
 ## 软件神器
 
@@ -541,7 +541,6 @@ Image Tuner是一个直观，有效且轻量级的批量调整大小和转换应
 22. 小鹤双拼
 [https://www.flypy.com/](https://www.flypy.com/?fileGuid=639KYdqXkC3wYwcP)
 
-## 
 ### Mac
 
 1. Snipaste
