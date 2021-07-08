@@ -26,6 +26,7 @@
   - [QuickLook](#quicklook)
   - [f.lux](#flux)
   - [Ninite](#ninite)
+  - [SpaceSniffer](#spacesniffer)
 - [音乐播放](#音乐播放)
   - [👍洛雪音乐](#洛雪音乐)
   - [Listen1](#listen1)
@@ -52,7 +53,9 @@
   - [Riot图片压缩](#riot图片压缩)
 - [输入法](#输入法)
   - [手心输入法](#手心输入法)
+  - [卡饭输入法](#卡饭输入法)
   - [小狼毫输入法](#小狼毫输入法)
+  - [输入法词库转换](#输入法词库转换)
 - [编辑器](#编辑器)
   - [👍Visual Studio Code](#visual-studio-code)
   - [notepad++](#notepad)
@@ -72,6 +75,8 @@
 - [下载器](#下载器)
   - [IDM](#idm)
   - [NDM](#ndm)
+- [安卓模拟器](#安卓模拟器)
+  - [👍蓝叠（bluestacks）](#蓝叠bluestacks)
 
 ## 浏览器
 
@@ -227,6 +232,12 @@ Windows护眼软件，可以自动调整您的计算机屏幕亮度以适应当�
 
 自动化帮你安装软件，没有工具栏。没有点击下一步，只需选择您的应用程序即可。
 
+### SpaceSniffer
+
+下载：<https://xzkj.lanzoui.com/ioyzlpy252d>
+
+SpaceSniffer 是一款免费软件和便携式工具应用程序，可让您了解文件夹和文件在磁盘上的结构。通过使用树状图可视化布局，可以立即了解大文件夹和文件在设备上的位置。
+
 ## 音乐播放
 
 ### 👍洛雪音乐
@@ -359,11 +370,24 @@ RIOT 有一个易于使用的界面，可以实时将原始图像与优化后的
 
 一款没有广告的极简输入法，这款输入法目前已经停止更新了，但并不影响我平时的使用。
 
+### 卡饭输入法
+
+官网：<https://input.kfsafe.cn/>
+
+
+轻巧极致快捷输入，一款基于rime框架开发的输入法
+
 ### 小狼毫输入法
 
 官网：<https://rime.im/>
 
 自定义程度高，上手难度较大，小白不建议使用。
+
+### 输入法词库转换
+
+官网：<https://github.com/studyzy/imewlconverter>
+
+一款开源免费的输入法词库转换程序
 
 ## 编辑器
 
@@ -457,3 +481,9 @@ nternet 下载管理器 (IDM) 是一种将下载速度提高多达 5 倍、恢�
 官网：<https://www.neatdownloadmanager.com/index.php/en/>
 
 Neat Download Manager 是一款免费的 Internet 下载管理器。
+
+## 安卓模拟器
+
+### 👍蓝叠（bluestacks）
+
+官网：<https://www.bluestacks.com/tw/index.html>
