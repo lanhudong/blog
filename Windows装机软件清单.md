@@ -27,6 +27,7 @@
   - [f.lux](#flux)
   - [Ninite](#ninite)
   - [SpaceSniffer](#spacesniffer)
+  - [PandaOCR](#pandaocr)
 - [音乐播放](#音乐播放)
   - [👍洛雪音乐](#洛雪音乐)
   - [Listen1](#listen1)
@@ -71,6 +72,7 @@
   - [Paint_net](#paint_net)
 - [笔记软件](#笔记软件)
   - [👍Notion](#notion)
+  - [wolai](#wolai)
   - [印象笔记](#印象笔记)
   - [幕布](#幕布)
 - [下载器](#下载器)
@@ -238,6 +240,12 @@ Windows护眼软件，可以自动调整您的计算机屏幕亮度以适应当�
 下载：<https://xzkj.lanzoui.com/ioyzlpy252d>
 
 SpaceSniffer 是一款免费软件和便携式工具应用程序，可让您了解文件夹和文件在磁盘上的结构。通过使用树状图可视化布局，可以立即了解大文件夹和文件在设备上的位置。
+
+### PandaOCR
+
+开源地址：<https://github.com/miaomiaosoft/PandaOCR>
+
+这是一款文字识别工具，多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码
 
 ## 音乐播放
 
@@ -462,6 +470,12 @@ Image Tuner是一款免费的批量图像调整大小，重命名，转换和水
 官网：<https://www.notion.so/desktop>
 
 这款笔记软件基本支持全平台的使用，我也刚开始接触这款软件，不过这个软件和其他笔记软件比起来，的确有不一样的地方，自定义程度极高，是一款高效的笔记软件之一，缺点是只支持英文。
+
+### wolai
+
+官网：<https://www.wolai.com/>
+
+可以理解为国内版的Notion，也挺不错的。
 
 ### 印象笔记
 
