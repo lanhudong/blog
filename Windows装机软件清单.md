@@ -69,6 +69,7 @@
   - [Honeyview](#honeyview)
   - [XnConvert](#xnconvert)
   - [ImageTuner](#imagetuner)
+  - [👍PicGo](#picgo)
   - [Paint_net](#paint_net)
 - [笔记软件](#笔记软件)
   - [👍Notion](#notion)
@@ -457,6 +458,12 @@ XnConvert是一款快速，简单易用，功能强大且免费的跨平台批�
 官网：<https://image-tuner.en.softonic.com/>
 
 Image Tuner是一款免费的批量图像调整大小，重命名，转换和水印软件，具有超直观和直观的界面。[使用教程](https://mp.weixin.qq.com/s?__biz=MzUxNDkyMzI4Mg==&mid=2247484853&idx=1&sn=cbaf2a97f978bd0e85dca65d601f0835&chksm=f9bfcbc8cec842de0a79bfc4262d93159ed23df74c443ce60dd6fbcb8d8b78bc7e86d04a6f94&token=1843722584&lang=zh_CN#rd)
+
+### 👍PicGo
+
+开源地址：<https://github.com/Molunerfinn/PicGo>
+
+一个用于快速上传图片并获取图片网址链接的工具
 
 ### Paint_net
 
