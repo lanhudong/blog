@@ -17,6 +17,7 @@
   - [👍Clash](#clash)
   - [👍TranslucentTB](#translucenttb)
   - [👍TrafficMonitor](#trafficmonitor)
+  - [👍PowerToys](#powertoys)
   - [Geek Uninstaller](#geek-uninstaller)
   - [Rufus](#rufus)
   - [GPU-Z](#gpu-z)
@@ -181,6 +182,12 @@ Clash 是由 Dreamacro 开发的，是一个使用 Go 开发的、基于规则�
 开源地址：https://github.com/zhongyang219/TrafficMonitor
 
 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+
+### 👍PowerToys
+
+开源地址：<https://github.com/microsoft/PowerToys>
+
+Power Toys 是微软为 Windows 系统推出的一系列免费实用小工具合集，堪称Windows高效率神器
 
 ### Geek Uninstaller
 
