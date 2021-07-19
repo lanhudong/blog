@@ -29,6 +29,7 @@
   - [Ninite](#ninite)
   - [SpaceSniffer](#spacesniffer)
   - [PandaOCR](#pandaocr)
+  - [格式工厂](#格式工厂)
 - [音乐播放](#音乐播放)
   - [👍洛雪音乐](#洛雪音乐)
   - [Listen1](#listen1)
@@ -254,6 +255,12 @@ SpaceSniffer 是一款免费软件和便携式工具应用程序，可让您了�
 开源地址：<https://github.com/miaomiaosoft/PandaOCR>
 
 这是一款文字识别工具，多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码
+
+### 格式工厂
+
+官网：<http://www.pcgeshi.com/>
+
+专业的格式转换工具，支持视频、音频、图片、文档等类型的转换，还可以快速去视频水印，音频提取分离这些实用功能。
 
 ## 音乐播放
 
