@@ -7,8 +7,9 @@
   - [百分浏览器](#百分浏览器)
   - [Opera](#opera)
   - [Yandex](#yandex)
-- [安全软件](#安全软件)
+- [安全清理](#安全清理)
   - [火绒](#火绒)
+  - [Dism++](#dism)
 - [文件管理](#文件管理)
   - [👍Everything](#everything)
   - [Listary](#listary)
@@ -30,6 +31,7 @@
   - [SpaceSniffer](#spacesniffer)
   - [PandaOCR](#pandaocr)
   - [格式工厂](#格式工厂)
+  - [视频图片去水印](#视频图片去水印)
 - [音乐播放](#音乐播放)
   - [👍洛雪音乐](#洛雪音乐)
   - [Listen1](#listen1)
@@ -134,13 +136,19 @@ IE浏览器的换核进化版，上线后获得很多好评
 
 Yandex Browser（正式名称 Yandex.Browser，是一个由俄罗斯网络搜索公司Yandex开发的基于Chromium之免费网页浏览器
 
-## 安全软件
+## 安全清理
 
 ### 火绒
 
 官网：<https://www.huorong.cn/>
 
 火绒是一款非常轻量的安全杀毒软件，涵盖的功能也非常全，小工具小插件还是很多的，例如常用到的U盘病毒扫描保护，垃圾清理，文件粉碎等等。
+
+### Dism++
+
+官网：<https://www.chuyu.me/>
+
+Dism++可以说是一个Dism的GUI版，与其他Dism GUI不同的是，Dism++是API级别与微软自家Dism共同核心，因此不依赖Dism.exe；得益于API级别，Dism++还可以让微软刻意隐藏的功能重见天日，比如ESD捕获，ESD转WIM等功能。
 
 ## 文件管理
 
@@ -261,6 +269,12 @@ SpaceSniffer 是一款免费软件和便携式工具应用程序，可让您了�
 官网：<http://www.pcgeshi.com/>
 
 专业的格式转换工具，支持视频、音频、图片、文档等类型的转换，还可以快速去视频水印，音频提取分离这些实用功能。
+
+### 视频图片去水印
+
+官网：<https://www.hitpaw.com/remove-watermark.html>
+
+一款视频图片去水印软件，处理速度非常快。
 
 ## 音乐播放
 
