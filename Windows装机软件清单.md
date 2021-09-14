@@ -46,6 +46,7 @@
   - [👍ScreenToGif](#screentogif)
   - [GifCam](#gifcam)
   - [LICEcap](#licecap)
+  - [Camtasia Studio](#camtasia-studio)
 - [截图软件](#截图软件)
   - [👍Snipaste](#snipaste)
   - [FSCapture](#fscapture)
@@ -348,6 +349,12 @@ GifCam 是完全免费的的一款轻量GIF录制软件，软件占用极小。
 官网：<https://www.cockos.com/licecap/>
 
 软件极小，使用简单，录制可保存.GIF。LICEcap 还支持自己的原生无损 .LCF 文件格式，该格式允许比 .GIF 更高的压缩率、更高的质量（每帧超过 256 色）和更准确的时间戳。
+
+### Camtasia Studio
+
+官网：<https://www.techsmith.com/video-editor.html>
+
+Camtasia 是专业屏幕捕获和屏幕录制的参考工具，同时也是功能丰富的多轨视频编辑器。因此，称赞其专业高清质量的视频记录功能只是成功的一半。Camtasia 仍然是直观，高质量的教程和演示视频制作的工具。
 
 ## 截图软件
 
