@@ -60,9 +60,9 @@
   - [7-Zip 压缩](#7-zip-压缩)
   - [Bandizip](#bandizip)
   - [Peazip](#peazip)
-  - [Riot图片压缩](#riot图片压缩)
-  - [小丸工具箱](#小丸工具箱)
-  - [HandBrake](#handbrake)
+  - [👍Riot图片压缩](#riot图片压缩)
+  - [👍小丸工具箱](#小丸工具箱)
+  - [👍HandBrake](#handbrake)
 - [输入法](#输入法)
   - [👍手心输入法](#手心输入法)
   - [👍搜狗输入法](#搜狗输入法)
@@ -73,7 +73,7 @@
   - [👍Visual Studio Code](#visual-studio-code)
   - [notepad++](#notepad)
   - [Sublime Text3](#sublime-text3)
-  - [Obsidian](#obsidian)
+  - [👍Obsidian](#obsidian)
   - [Typora](#typora)
 - [PDF阅读器](#pdf阅读器)
   - [👍sumatrapdfreader](#sumatrapdfreader)
@@ -433,23 +433,23 @@ Bandizip 是一个强大的多功能压缩文件管理工具，可提供高速�
 
 一款开源压缩软件，PeaZip 是免费的文件归档实用程序，基于 7-Zip、p7zip、Brotli、FreeArc、PAQ、Zstandard 和PEA 项目的开源技术。
 
-### Riot图片压缩
+### 👍Riot图片压缩
 
 官网：<https://riot-optimizer.com/>
 
 RIOT 有一个易于使用的界面，可以实时将原始图像与优化后的图像进行比较，并立即查看生成的文件大小，图像优化器轻巧、快速且易于使用，但对于高级用户来说功能强大。
 
-### 小丸工具箱
+### 👍小丸工具箱
 
 官网：<https://maruko.appinn.me/>
 
 视频压缩神器，小丸工具箱是一款用于处理音视频等多媒体文件的软件，是一款x264、ffmpeg等命令行程序的图形界面，它的目标是让视频压制变得简单、轻松。
 
-### HandBrake
+### 👍HandBrake
 
 官网：<https://handbrake.fr/>
 
-HandBrake是基于ffmpeg的视频转码和压制的多平台开源软件，支持格式多，功能丰富，界面清爽，目前已有中文界面。
+HandBrake是基于ffmpeg的视频转码和压制的多平台开源软件，支持格式多，功能丰富，界面清爽，目前已有中文界面（视频音频压缩）。
 
 ## 输入法
 
@@ -504,7 +504,7 @@ Notepad++是Windows操作系统下的一套文本编辑器(软件版权许可证
 
 sublimetext是一款轻量级的代码编辑器，是收费的，但是可以无限期使用。轻量、智能提示、界面完美、支持自定义界面和插件配置，这让很多开发者一经上手就会爱上这款便捷的Coding神器。
 
-### Obsidian
+### 👍Obsidian
 
 官网：<https://obsidian.md/>
 
