@@ -62,6 +62,7 @@
   - [Peazip](#peazip)
   - [Riot图片压缩](#riot图片压缩)
   - [小丸工具箱](#小丸工具箱)
+  - [HandBrake](#handbrake)
 - [输入法](#输入法)
   - [👍手心输入法](#手心输入法)
   - [👍搜狗输入法](#搜狗输入法)
@@ -72,6 +73,7 @@
   - [👍Visual Studio Code](#visual-studio-code)
   - [notepad++](#notepad)
   - [Sublime Text3](#sublime-text3)
+  - [Obsidian](#obsidian)
   - [Typora](#typora)
 - [PDF阅读器](#pdf阅读器)
   - [👍sumatrapdfreader](#sumatrapdfreader)
@@ -443,6 +445,12 @@ RIOT 有一个易于使用的界面，可以实时将原始图像与优化后的
 
 视频压缩神器，小丸工具箱是一款用于处理音视频等多媒体文件的软件，是一款x264、ffmpeg等命令行程序的图形界面，它的目标是让视频压制变得简单、轻松。
 
+### HandBrake
+
+官网：<https://handbrake.fr/>
+
+HandBrake是基于ffmpeg的视频转码和压制的多平台开源软件，支持格式多，功能丰富，界面清爽，目前已有中文界面。
+
 ## 输入法
 
 ### 👍手心输入法
@@ -495,6 +503,12 @@ Notepad++是Windows操作系统下的一套文本编辑器(软件版权许可证
 官网：<https://www.sublimetext.com/3>
 
 sublimetext是一款轻量级的代码编辑器，是收费的，但是可以无限期使用。轻量、智能提示、界面完美、支持自定义界面和插件配置，这让很多开发者一经上手就会爱上这款便捷的Coding神器。
+
+### Obsidian
+
+官网：<https://obsidian.md/>
+
+非常优秀的一款Markdown写作软件，支持文档之间的双向链接，自动生成所有相关文件的思维导图，还有个性化主题等功能。
 
 ### Typora
 
