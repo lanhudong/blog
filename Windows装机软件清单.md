@@ -19,6 +19,7 @@
   - [👍TranslucentTB](#translucenttb)
   - [👍TrafficMonitor](#trafficmonitor)
   - [👍PowerToys](#powertoys)
+  - [👍图吧工具箱](#图吧工具箱)
   - [Geek Uninstaller](#geek-uninstaller)
   - [Rufus](#rufus)
   - [GPU-Z](#gpu-z)
@@ -206,6 +207,12 @@ Clash 是由 Dreamacro 开发的，是一个使用 Go 开发的、基于规则�
 开源地址：<https://github.com/microsoft/PowerToys>
 
 Power Toys 是微软为 Windows 系统推出的一系列免费实用小工具合集，堪称Windows高效率神器
+
+### 👍图吧工具箱
+
+官网：<http://www.tbtool.cn/>
+
+免费好用的电脑硬件检测工具箱。
 
 ### Geek Uninstaller
 
