@@ -10,6 +10,7 @@
 - [安全清理](#安全清理)
   - [火绒](#火绒)
   - [Dism++](#dism)
+  - [CCleaner](#ccleaner)
 - [文件管理](#文件管理)
   - [👍Everything](#everything)
   - [Listary](#listary)
@@ -159,6 +160,12 @@ Yandex Browser（正式名称 Yandex.Browser，是一个由俄罗斯网络搜索
 官网：<https://www.chuyu.me/>
 
 Dism++可以说是一个Dism的GUI版，与其他Dism GUI不同的是，Dism++是API级别与微软自家Dism共同核心，因此不依赖Dism.exe；得益于API级别，Dism++还可以让微软刻意隐藏的功能重见天日，比如ESD捕获，ESD转WIM等功能。
+
+### CCleaner
+
+官网：<https://www.ccleaner.com/>
+
+电脑垃圾清洁管理工具，它保护您的隐私并使您的计算机更快更安全
 
 ## 文件管理
 
