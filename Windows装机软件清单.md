@@ -80,6 +80,7 @@
 - [PDF阅读器](#pdf阅读器)
   - [👍sumatrapdfreader](#sumatrapdfreader)
 - [图片相关](#图片相关)
+  - [IrfanView](#irfanview)
   - [Honeyview](#honeyview)
   - [XnConvert](#xnconvert)
   - [ImageTuner](#imagetuner)
@@ -539,6 +540,14 @@ sublimetext是一款轻量级的代码编辑器，是收费的，但是可以无
 Sumatra PDF 是适用于 Windows的免费 PDF、电子书（ePub、Mobi）、XPS、DjVu、CHM、 漫画书（CBZ 和 CBR）阅读器。Sumatra PDF 功能强大、体积小、便携且启动速度非常快。
 
 ## 图片相关
+
+### IrfanView
+
+官网：<https://www.irfanview.com/>
+
+- 皮肤下载：<https://www.irfanview.com/skins.htm>
+
+支持非常多格式的一款看图神器。IrfanView 是世界上第一个支持多个（动画）GIF 的 Windows 图形查看器。全球首批支持多页 TIF 的图形查看器之一。全球第一个支持多个 ICO 的图形查看器。
 
 ### Honeyview
 
