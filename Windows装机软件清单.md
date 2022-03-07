@@ -71,6 +71,7 @@
   - [卡饭输入法](#卡饭输入法)
   - [小狼毫输入法](#小狼毫输入法)
   - [输入法词库转换](#输入法词库转换)
+  - [微软小鹤-挂接](#微软小鹤-挂接)
 - [编辑器](#编辑器)
   - [👍Visual Studio Code](#visual-studio-code)
   - [notepad++](#notepad)
@@ -498,6 +499,12 @@ HandBrake是基于ffmpeg的视频转码和压制的多平台开源软件，支�
 官网：<https://github.com/studyzy/imewlconverter>
 
 一款开源免费的输入法词库转换程序
+
+### 微软小鹤-挂接
+
+鹤的网盘：<http://flypy.ysepan.com/>
+
+可以 **小鹤双拼** 直接挂接上微软自带的输入法
 
 ## 编辑器
 
