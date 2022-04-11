@@ -49,6 +49,7 @@
 - [视频录制](#视频录制)
   - [👍Bandicam](#bandicam)
   - [👍OBS](#obs)
+  - [👍Captura](#captura)
   - [👍ScreenToGif](#screentogif)
   - [GifCam](#gifcam)
   - [LICEcap](#licecap)
@@ -378,6 +379,14 @@ Bandicam（班迪录屏）非常给力的一款视频录制软件，支持鼠标
 官网：<https://obsproject.com/>
 
 用于视频录制和直播的免费开源软件，群主粗略的觉得这款软件还是主打直播~ 是一款非常给力的一款直播录制软件。
+
+### 👍Captura
+
+开源地址：<https://github.com/MathewSachin/Captura>
+
+官网：<https://mathewsachin.github.io/Captura/>
+
+Captura是一款开源的录屏软件，免费无广告，支持录制鼠标键盘的操作。下载建议下载正式版本，比较稳定，第一次安装需要配置[FFmpeg](https://www.gyan.dev/ffmpeg/builds/)
 
 ### 👍ScreenToGif
 
