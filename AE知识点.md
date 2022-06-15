@@ -81,16 +81,25 @@
 
 ### AE插件
 
-1. Motion
-   - BURST
-   - CLONE
-   - DELAY
-   - EXCITE
-   - FLIP H
-   - FLIP V
-   - GRAB
-   - JUMP
-   - NULL
-   - TEXT-BREAK
-   - RENAME
-   - SPIN
+1. Motion（MG运动图形脚本）
+   - BURST 爆炸
+   - CLONE 克隆
+     - 按住Alt键并点击Clone，可以反向克隆关键帧 
+   - DELAY 延迟
+   - EXCITE 弹性
+     - 制作Q弹动画效果
+   - FLIP H 垂直镜像
+   - FLIP V 水平镜像
+   - GRAB 同属性更改
+   - JUMP 弹跳
+     - 制作回弹效果
+   - NULL 空值
+   - TEXT-BREAK 文字拆分
+   - RENAME 重命名
+   - SPIN 自转
+2. FX Console（快速添加效果插件-特效控制台）
+3. After Codes（特殊编码加速输出渲染）
+   - 加速渲染AE视频
+   - 快速导出Mp4格式
+   - 码率可调节
+4. Trapcode（粒子插件）
