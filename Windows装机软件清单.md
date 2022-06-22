@@ -93,6 +93,11 @@
   - [wolai](#wolai)
   - [印象笔记](#印象笔记)
   - [幕布](#幕布)
+- [视频剪辑相关](#视频剪辑相关)
+  - [Adobe Premiere](#adobe-premiere)
+  - [剪映](#剪映)
+  - [Adobe Media Encoder](#adobe-media-encoder)
+  - [Adobe After Effects](#adobe-after-effects)
 - [下载器](#下载器)
   - [IDM](#idm)
   - [NDM](#ndm)
@@ -619,6 +624,25 @@ Image Tuner是一款免费的批量图像调整大小，重命名，转换和水
 官网：<https://mubu.com/>
 
 支持一键生成思维导图，大纲笔记与思维导图可以一键转换。
+
+## 视频剪辑相关
+
+### Adobe Premiere
+
+一款专业的视频剪辑工具，本身是个视频剪辑器空盒子，需要自己安装素材以及插件配合使用，效果才佳。
+### 剪映
+
+官网：<https://lv.ulikecam.com/>
+
+简单易上手，素材丰富！适合初学者，或者快速输出成品！
+
+### Adobe Media Encoder
+
+视频导出
+
+### Adobe After Effects
+
+视频特效制作，配合插件效果更佳。
 
 ## 下载器
 
