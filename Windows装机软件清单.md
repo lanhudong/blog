@@ -165,7 +165,7 @@ Yandex Browser（正式名称 Yandex.Browser，是一个由俄罗斯网络搜索
 
 ### Dism++
 
-官网：<https://www.chuyu.me/>
+官网：<https://github.com/Chuyu-Team/Dism-Multi-language/releases>
 
 Dism++可以说是一个Dism的GUI版，与其他Dism GUI不同的是，Dism++是API级别与微软自家Dism共同核心，因此不依赖Dism.exe；得益于API级别，Dism++还可以让微软刻意隐藏的功能重见天日，比如ESD捕获，ESD转WIM等功能。
 
