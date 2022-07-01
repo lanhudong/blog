@@ -105,6 +105,17 @@
    - **Math.round(value)** 四舍五入取整
    - **Math.ceil(value)** 返回大于等于value的最小整数
    - **Math.floor(value)** 返回小于等于value的最大整数
+7. interpolation -控制运动的数值区间
+   - `linear(t, tMin, tMax, value1, value2)` ，t代表控制器，tmin/tMax代表控制器的大小数值区间，value1/value2代表数值的变动区间。举例：`linear(time, 0, 5, 10, 0).toFixed()` ，表示的是按照时间的推移，从0-5s内，会出现从10-0的倒计时。不仅可以控制文本，也可以控制旋转、不透明度等。位置这些数组的值，value需要填写数组控制，如：`linear(time, 0, 5, [538,786], [938,886])` ，此时位置会向右下角偏移。
+   - `ease(t, tMin, tMax, value1, value2)` ，其实和Linear使用方式一样，Linear为线性动画，ease为柔性动画。
+8. clamp - 限制
+   - `clamp(value, limit1, limit2)` ，可以达到限制的效果。value为限制的对象，limit1/limit2为限制的大小。举例：```var a = wiggle(2,800);
+     clamp(a, [700,300], [900,500])```，此时位置抖动已经被限制在一个区间内了。
+9. speed -速度
+   - `.speed` ，可以查看运动的数值
+   - 同时还可以通过速度来控制数值的变化，如，位移速度越快，也就是位移的speed越大，模糊效果越大~
+10. marker -标记
+   - 再合成上的标记信息获取 `thisComp.marker.key(1).comment` , key可以精确获取第几个标记。comment是获取标记的内容。 `.comment` 替换成 `.time` 即可获取标记时间
 ## 网站/插件
 
 ### 模板素材
