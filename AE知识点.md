@@ -96,6 +96,8 @@
    - 无限循环：```cycle=360;  //循环周期
    n=10;  //转速(需为整数)
    cycle*n/thisComp.duration*time```
+4. posterizetime()
+   - 控制每秒有多少帧，posterizetime(1)，表示每秒仅有1帧运动。
 1. random()
    - 随机表达式
    - 随机整数：Math.round(random(1,200))
@@ -114,8 +116,9 @@
 9. speed -速度
    - `.speed` ，可以查看运动的数值
    - 同时还可以通过速度来控制数值的变化，如，位移速度越快，也就是位移的speed越大，模糊效果越大~
-10. marker -标记
-   - 再合成上的标记信息获取 `thisComp.marker.key(1).comment` , key可以精确获取第几个标记。comment是获取标记的内容。 `.comment` 替换成 `.time` 即可获取标记时间
+11. marker -标记
+    - 再合成上的标记信息获取 `thisComp.marker.key(1).comment` , key可以精确获取第几个标记。comment是获取标记的内容。 `.comment` 替换成 `.time` 即可获取标记时间
+
 ## 网站/插件
 
 ### 模板素材
