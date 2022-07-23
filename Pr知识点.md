@@ -19,6 +19,7 @@
 - Beauty Box -美颜插件
 - BBC视频特效插件
 - 视频降噪PR插件 Neat Video Pro
+- Twixtor-超级慢动作视频变速补帧
 - RE-VisionFX Effections Plus -视觉特效插件
   - 如视频降噪，超级慢动作无极变速，去闪烁，变形，调色，镜头修复等；
 - 蓝宝石插件 -AE/PR视觉特效和转场
